@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="./github-banner.png" alt="GitHub Banner" width="100%" />
+</p>
 
-<!--
-**rashmika2422/rashmika2422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tharusha Rashmika 👋
 
-Here are some ideas to get you started:
+## Computer Engineering Undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI • Machine Learning
+
+I am interested in:
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+- Full-Stack Web Development
+
+## Tech Stack
+- Python
+- JavaScript
+- React
+- Next.js
+- Git
